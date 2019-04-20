@@ -1,0 +1,9 @@
+server:
+  port: 8181
+
+#AWS
+aws:
+  accessKeyId: localtest # AWS access key
+  secretKey: localtest # AWS secret key
+  dynamodb:
+    endpoint: 'http://localhost:8000' # DynamoDB endpoint
