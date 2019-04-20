@@ -13,3 +13,4 @@ The purpose of this project is to have a first contact with AWS DynamoDB
 - Logs.
 - Error handling.
 - AWS keys in properties files.
+- Tests
