@@ -10,7 +10,6 @@ The purpose of this project is to have a first contact with AWS DynamoDB
 # TODO
 
 - POST and PUT operations.
-- Logs.
 - Error handling.
 - AWS keys in properties files.
 - Tests

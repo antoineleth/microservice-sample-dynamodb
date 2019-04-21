@@ -7,3 +7,6 @@ aws:
   secretKey: localtest # AWS secret key
   dynamodb:
     endpoint: 'http://localhost:8000' # DynamoDB endpoint
+
+logging:
+  config: log4j2.xml
