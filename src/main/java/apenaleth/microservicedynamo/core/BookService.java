@@ -11,4 +11,6 @@ public interface BookService {
     BookDTO getBookById(String bookId);
 
     void postBook(BookDTO book);
+
+    void putBook(String bookId, BookDTO bookDTO) throws Exception;
 }
